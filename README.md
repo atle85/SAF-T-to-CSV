@@ -2,7 +2,7 @@
 Converter in an early stage made for convertering Norwegian SAF-T files to CSV format. 
 
 ## Versions
-v1) January 17th: Quick mockup/proof of concept.
+v1) January 17th: Quick mockup/proof of concept.  
 v2) January 24th: Converter with a more dynamic design.
 
 ## Known bugs
